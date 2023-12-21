@@ -8,3 +8,7 @@ resources:
 
 patches:
 - path: patches/ufe-controller.service.yaml    # úprava služby ufe-controller
+
+components:
+ - ../../../components/version-developers
+ 
