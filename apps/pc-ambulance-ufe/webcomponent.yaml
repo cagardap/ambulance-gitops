@@ -7,7 +7,7 @@ spec:
                      # module web komponentu pre tento mikroFE
                      # - umiestnený v namespace wac-hospital
   navigation:
-    - element: pc-ambulance-wl-list    # element, ktorý bude vložený na stránku
+    - element: pc-ambulance-wl-app    # element, ktorý bude vložený na stránku
                                     # pri navigácii na zoznam čakajúcich
       path: pc-ambulance-wl      # cesta, ktora sa zobrazi v address bare v prehliadaci, ked bude tento mikroFE aktívny
       title: Zoznam čakajúcich pc      # názov mikro aplikácie
