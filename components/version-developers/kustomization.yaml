@@ -3,7 +3,7 @@ kind: Component
 images:
 - name: cagardap/ambulance-ufe
   newName: cagardap/ambulance-ufe # {"$imagepolicy":  "wac-hospital:ambulance-ufe:name"}
-  newTag: main.20240105.1449 # {"$imagepolicy": "wac-hospital:ambulance-ufe:tag"}
+  newTag: main.20240112.1359 # {"$imagepolicy": "wac-hospital:ambulance-ufe:tag"}
 - name: milung/ufe-controller
   newName: milung/ufe-controller # {"$imagepolicy":  "wac-hospital:ufe-controller:name"}
   newTag: 1.7.2 # {"$imagepolicy": "wac-hospital:ufe-controller:tag"}
