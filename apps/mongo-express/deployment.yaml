@@ -36,9 +36,9 @@ spec:
               key: host
         # authentication and authorization at cluster level
         - name: ME_CONFIG_BASICAUTH_USERNAME
-          value: ""
+          value: "mexpress"
         - name: ME_CONFIG_BASICAUTH_PASSWORD
-          value: ""
+          value: "mexpress"
         ports:
         - name: http
           containerPort: 8081
