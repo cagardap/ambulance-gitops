@@ -9,7 +9,7 @@ commonLabels:
 
 resources:
  - ../../../apps/pc-ambulance-ufe
-
+ - ../../../apps/pc-ambulance-webapi
 
 components:
  - ../../../components/version-release
