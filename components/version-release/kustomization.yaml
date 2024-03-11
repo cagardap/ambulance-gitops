@@ -3,7 +3,7 @@ kind: Component
 images:
 - name: cagardap/ambulance-ufe
   newName: cagardap/ambulance-ufe
-  newTag: 1.1.0  #aktuálna verzia docker obrazu, ktorú chcete aby používatelia - cvičiaci - videli nasadenú
+  newTag: 1.1.1  #aktuálna verzia docker obrazu, ktorú chcete aby používatelia - cvičiaci - videli nasadenú
 - name: cagardap/ambulance-wl-webapi
   newName: cagardap/ambulance-wl-webapi
   newTag: 1.0.2
