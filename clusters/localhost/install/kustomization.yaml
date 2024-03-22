@@ -12,6 +12,7 @@ resources:
 - ../../../apps/pc-ambulance-ufe
 - ../../../apps/pc-ambulance-webapi
 - ../../../apps/mongo-express
+- ../../../apps/http-echo
 
 components:
 - ../../../components/version-developers
