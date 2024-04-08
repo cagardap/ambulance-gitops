@@ -4,3 +4,7 @@ metadata:
   name: wac-hospital-gateway-class
 spec:
   controllerName: gateway.envoyproxy.io/gatewayclass-controller
+  parametersRef:
+    kind: EnvoyProxy
+    name: wac-hospital-proxy
+    namespace: envoy-gateway-system
